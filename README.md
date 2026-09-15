@@ -1,1 +1,1 @@
-iunyu
+#esse site se trata de uma pokedex onde o usuario pode navegar entre as paginas atraves dos links que e o nome de cada pokemon,entrando em um em especifico, havera foto,video,uma descricão do pokemon e um audio representando sua fala.
